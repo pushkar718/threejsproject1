@@ -10,7 +10,7 @@ body
     overflow: hidden;
 }
 
-.webgl
+.webRender
 {
     position: fixed;
     top: 0;
